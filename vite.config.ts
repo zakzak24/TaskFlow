@@ -9,7 +9,7 @@ export default defineConfig({
     globals: true, // Utilisation des API globales comme describe, it, expect
     setupFiles: './src/tests/setup.ts', // Optionnel : pour des configurations globales comme jest-dom
   },
-  optimizeDeps: {
-    exclude: ['lucide-react'],
-  },
+  // optimizeDeps: {
+  //   exclude: ['lucide-react'],
+  // },
 });
