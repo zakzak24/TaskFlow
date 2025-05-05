@@ -1,45 +1,97 @@
 # TaskFlow - Todo App
 
-**TaskFlow** est une application de gestion de tâches construite avec **React**, **Vite** et **TypeScript**. Elle permet aux utilisateurs de créer, organiser, et suivre leurs tâches à travers différentes catégories, avec une interface réactive et agréable.
-
+**TaskFlow** is a task management application built with **React**, **Vite**, and **TypeScript**. It enables users to create, organize, and track their tasks across various categories, making productivity and organization easy and efficient.
 
 ## About The Project
 
 ![TaskFlow](taskflow.PNG)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+TaskFlow was created to offer a modern and user-friendly solution for managing tasks. The project leverages cutting-edge technologies like **Framer Motion** for animations and **Lucide React** for icons, ensuring a sleek and enjoyable user experience.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+### Why TaskFlow?
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+- **Focus on productivity:** Spend more time on your important tasks.
+- **Reusable and flexible:** Designed with DRY principles to save effort.
+- **Customizable templates:** Easily adapt the project for your needs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Fonctionnalités
+## Features
 
-- **Ajout de tâches** : Crée des tâches avec un titre et assigne-les à une catégorie.
-- **Gestion des catégories** : Organise tes tâches par catégorie (ex. : personnel, travail, shopping).
-- **Marquage des tâches** : Marque des tâches comme terminées ou non terminées.
-- **Suppression et modification des tâches** : Supprime ou modifie les tâches existantes.
-- **Menu mobile** : Accède à l'application via un menu mobile pour une meilleure expérience sur petits écrans.
-- **Animations fluides** : Utilisation de **Framer Motion** pour une interface animée et agréable.
-- **Icônes intuitives** : **Lucide React** fournit des icônes modernes et simples.
+- **Add Tasks:** Create tasks with a title and assign them to a category.
+- **Category Management:** Organize your tasks by category (e.g., Personal, Work, Shopping).
+- **Mark Tasks:** Mark tasks as completed or not completed.
+- **Edit/Delete Tasks:** Modify or remove existing tasks.
+- **Mobile Menu:** Access the app via a responsive mobile-friendly menu.
+- **Smooth Animations:** Powered by **Framer Motion** for an animated and engaging interface.
+- **Intuitive Icons:** Modern and clean icons provided by **Lucide React**.
 
-## Prérequis
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Avant de commencer, assure-toi d'avoir installé **Node.js** et **npm**.
+## Prerequisites
+
+Before starting, ensure you have the following installed:
 
 - **Node.js** >= 16.0.0
 - **npm** >= 8.0.0
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Installation
 
-1. Clone ce repository sur ton ordinateur.
+1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/ton-utilisateur/ton-repository.git
+   git clone https://github.com/zakzak24/TaskFlow.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd TaskFlow
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Usage
+
+To use TaskFlow, simply follow the installation steps and access the app via your browser. Add, manage, and track your tasks effortlessly!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contribution Guidelines
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Open a pull request.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgments
+
+Special thanks to:
+
+- **zakzak24** for creating and maintaining this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
