@@ -1,97 +1,59 @@
 # TaskFlow - Todo App
 
-**TaskFlow** is a task management application built with **React**, **Vite**, and **TypeScript**. It enables users to create, organize, and track their tasks across various categories, making productivity and organization easy and efficient.
+**TaskFlow** est une application de gestion des tâches construite avec **React**, **Vite** et **TypeScript**. Elle permet aux utilisateurs de créer, d'organiser et de suivre leurs tâches dans différentes catégories, rendant ainsi la productivité et l'organisation faciles et efficaces.
 
-## About The Project
+## À propos du projet
 
 ![TaskFlow](taskflow.PNG)
 
-TaskFlow was created to offer a modern and user-friendly solution for managing tasks. The project leverages cutting-edge technologies like **Framer Motion** for animations and **Lucide React** for icons, ensuring a sleek and enjoyable user experience.
+TaskFlow a été créé pour offrir une solution moderne et conviviale de gestion des tâches. Le projet s'appuie sur des technologies de pointe telles que **Framer Motion** pour les animations et **Lucide React** pour les icônes, garantissant une expérience utilisateur élégante et agréable.
 
-### Why TaskFlow?
+### Pourquoi TaskFlow?
 
-- **Focus on productivity:** Spend more time on your important tasks.
-- **Reusable and flexible:** Designed with DRY principles to save effort.
-- **Customizable templates:** Easily adapt the project for your needs.
+- **Concentrez-vous sur la productivité:** Consacrez plus de temps à vos tâches importantes.
+- **Réutilisable et flexible:** Conçu selon les principes DRY pour réduire les efforts.
+- **Modèles personnalisables:** Adaptez facilement le projet à vos besoins.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Retour au début</a>)</p>
 
 ## Features
 
-- **Add Tasks:** Create tasks with a title and assign them to a category.
-- **Category Management:** Organize your tasks by category (e.g., Personal, Work, Shopping).
-- **Mark Tasks:** Mark tasks as completed or not completed.
-- **Edit/Delete Tasks:** Modify or remove existing tasks.
-- **Mobile Menu:** Access the app via a responsive mobile-friendly menu.
-- **Smooth Animations:** Powered by **Framer Motion** for an animated and engaging interface.
-- **Intuitive Icons:** Modern and clean icons provided by **Lucide React**.
+- **Ajouter des tâches:** Créez des tâches avec un titre et assignez-les à une catégorie.
+- **Gestion des catégories:** Organisez vos tâches par catégorie (par exemple, Personnel, Travail, Achats).
+- **Marquer les tâches:** Marquer les tâches comme terminées ou non terminées.
+- **Modifier/supprimer des tâches:** Modifiez ou supprimez des tâches existantes.
+- **Menu mobile:** Accédez à l'application via un menu réactif adapté aux mobiles.
+- **Animations fluides:** Utilisées par **Framer Motion** pour une interface animée et attrayante.
+- **Icônes intuitives:**Icônes modernes et propres fournies par **Lucide React**.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Retour au début</a>)</p>
 
-## Prerequisites
+## Prérequis
 
-Before starting, ensure you have the following installed:
+Avant de commencer, assurez-vous que les éléments suivants sont installés :
 
 - **Node.js** >= 16.0.0
 - **npm** >= 8.0.0
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Retour au début</a>)</p>
 
 ## Installation
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/zakzak24/TaskFlow.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd TaskFlow
-   ```
-
-3. Install dependencies:
+1. Installer les dépendances:
 
    ```bash
    npm install
    ```
 
-4. Start the development server:
+2. Démarrer le serveur de développement:
    ```bash
    npm run dev
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Usage
-
-To use TaskFlow, simply follow the installation steps and access the app via your browser. Add, manage, and track your tasks effortlessly!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contribution Guidelines
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Retour au début</a>)</p>
 
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Acknowledgments
-
-Special thanks to:
-
-- **zakzak24** for creating and maintaining this project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Retour au début</a>)</p>
